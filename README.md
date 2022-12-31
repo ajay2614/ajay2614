@@ -7,6 +7,12 @@
 
 <a href="https://github.com/ajay2614" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/ajay-sharma-a85239183" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/__aj14" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
   
 
@@ -18,7 +24,7 @@
 <img src = "https://user-images.githubusercontent.com/86017484/210154057-a7d619c4-75da-45a3-be4b-7de90789b835.gif" height =" 250" width="400" />
 </div>
 
-I am a passionate computer science engineer from India having an experience in the backend development, mainly using the spring framework 🍃, I am also familiar with the frontend development using Angular 🅰️, I also love solving DSA questions, my hobbies are playing guitar 🎸and watching football⚽, pleased to have you here😊.  
+I am a passionate computer science engineer from India having an experience in the backend development, mainly using the spring framework 🍃, I am also familiar with the frontend development using Angular 🅰️, I also love solving DSA questions, my hobbies are playing guitar 🎸and watching movies 🎬 and football⚽, pleased to have you here😊.  
   
 
 <br/>  
