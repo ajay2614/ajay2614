@@ -1,3 +1,7 @@
+<div align = "center" >
+<img src = "https://user-images.githubusercontent.com/86017484/210153853-6ef28020-53d1-4f90-8be5-d06412bf05d1.gif" height ="500" width="900"/>
+</div>
+
 ## Hey 👋, I'm Ajay Sharma  
   
 
