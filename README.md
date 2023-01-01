@@ -24,7 +24,7 @@
 <img src = "https://user-images.githubusercontent.com/86017484/210154057-a7d619c4-75da-45a3-be4b-7de90789b835.gif" height =" 250" width="400" />
 </div>
 
-I am a passionate computer science engineer from India having an experience in the backend development, mainly using the spring framework 🍃, I am also familiar with the frontend development using Angular 🅰️, I also love solving DSA questions, my hobbies are playing guitar 🎸and watching movies 🎬 and football⚽, pleased to have you here😊.  
+I am a passionate computer science engineer from India having an experience in the backend development, mainly using the spring framework 🍃, I am also familiar with the frontend development using Angular 🅰️.I also love solving DSA questions, my hobbies are playing guitar 🎸and watching movies 🎬 and football⚽, pleased to have you here😊.  
   
 
 <br/>  
